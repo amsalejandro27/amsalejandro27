@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Ale%20%7C%20GitHub%20Profile&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=amsalejandro27&fontSize=35&fontColor=ffffff" />
 </p>
 
 <h2 align="center">👋 Hola, soy Ale</h2>
