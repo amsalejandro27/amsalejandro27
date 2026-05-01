@@ -16,7 +16,7 @@
 ## 🧩 Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,javascript,typescript,python,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,javascript,typescript,python,html,css,git,github,vscode,antigravity" />
 </p>
 
 ---
