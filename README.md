@@ -1,16 +1,58 @@
-## Hi there 👋
+<!-- Banner superior -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Ale%20%7C%20GitHub%20Profile&fontSize=35&fontColor=ffffff" />
+</p>
 
-<!--
-**amsalejandro27/amsalejandro27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Hola, soy Ale</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Desarrollando en modo vibecoding para <b>EurovAIsion</b><br>
+  ⚡ Me gusta construir, romper y reconstruir cosas con código<br>
+  🧠 Aprendiendo mientras creo
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,javascript,typescript,python,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 🚧 En qué estoy trabajando
+
+- 🎯 EurovAIsion (vibecoding + experimentación creativa con IA)
+- 🧪 Proyectos pequeños para probar ideas rápido
+- 🔧 Mejorando bases de software y arquitectura personal
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 Filosofía
+
+> “Si funciona, no lo toques… hasta que tengas una idea mejor.”
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TU_USUARIO
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer"/>
+</p>
