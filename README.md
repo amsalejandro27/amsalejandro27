@@ -32,11 +32,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amsalejandro27&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsalejandro27&theme=tokyonight" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
+- GitHub: https://github.com/amsalejandro27
 
 ---
 
